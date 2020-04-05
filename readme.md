@@ -35,3 +35,5 @@ Your function should return a single integer denoting the height of the binary t
 ```
 3
 ```
+
+###### The challenge can be found on this [link](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) on the HackerRank site.
